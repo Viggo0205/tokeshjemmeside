@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '',
-  assetPrefix: '',
+  basePath: '/tokeshjemmeside',
+  assetPrefix: '/tokeshjemmeside',
 }
 
 module.exports = nextConfig
